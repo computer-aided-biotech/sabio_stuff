@@ -1,0 +1,569 @@
+id	value	unit	species_name	pH	T
+Act	0.0005333333	CustomUnit("molswedgeonegwedgeone")		8.5	25
+Kb_SPC_56_cytosol	0.000778	CustomUnit("M")	Ethanol	9	25
+Ka_SPC_37_cytosol	0.0000363	CustomUnit("M")	NAD+	9	25
+Kia_SPC_37_cytosol	0.0000403	CustomUnit("M")	NAD+	9	25
+kcat	4.9	CustomUnit("swedgeone")		9	25
+Kib_SPC_56_cytosol	0.0111	CustomUnit("M")	Ethanol	9	25
+Ki_SPC_56_Cell	0.1	CustomUnit("M")	Ethanol	7.5	25
+Vmax	0.2166667	CustomUnit("molswedgeonemolwedgeone")		7.5	25
+Km_SPC_56_Cell	0.00015	CustomUnit("M")	Ethanol	7.5	25
+Km_SPC_37_cytoplasm	0.000039	CustomUnit("M")	NAD+	8.5	25
+kcat_Km_SPC_56_cytosol	466.6667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Km_SPC_56_cytosol	0.04	CustomUnit("M")	Ethanol	7.5	25
+kcat	18.41667	CustomUnit("swedgeone")		7.5	25
+Kii_SPC_26699_Cell	0.0000000043	CustomUnit("M")	Trifluoroethanol	7.3	30
+Kis_SPC_26699_Cell	0.04	CustomUnit("M")	Trifluoroethanol	7.3	30
+Vmax	0.000044	CustomUnit("molswedgeonegwedgeone")		7.4	25
+kcat_Km_SPC_56_Cell	15778.33	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.4	25
+kcat	9.151667	CustomUnit("swedgeone")		7.4	25
+Km_SPC_56_Cell	0.00058	CustomUnit("M")	Ethanol	7.4	25
+Km_SPC_38_mitochondrion	0.000025	CustomUnit("M")	NADH	8	25
+kcat	1000	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_38_mitochondrion	40000000	CustomUnit("Mwedgeoneswedgeone")	NADH	8	25
+Km_SPC_37_Cell	0.000074	CustomUnit("M")	NAD+	7.5	25
+kcat_Km_SPC_56_cytosol	0.75	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	4.4	CustomUnit("swedgeone")		7.3	30
+Kmb_SPC_56_Cell	0.14	CustomUnit("M")	Ethanol	7.3	30
+Kma_SPC_37_Cell	0.0023	CustomUnit("M")	NAD+	7.3	30
+Kia_SPC_37_Cell	0.000089	CustomUnit("M")	NAD+	7.3	30
+Km_app_SPC_56_cytosol	0.0053	CustomUnit("M")	Ethanol	7.5	25
+Km_b_SPC_38_Cell	0.000122	CustomUnit("M")	NADH	8.3	30
+Km_a_SPC_1292_Cell	0.00283	CustomUnit("M")	Acetaldehyde	8.3	30
+Act	0.0002083333	CustomUnit("molswedgeonegwedgeone")		10	25
+Kiu_SPC_34_cytosol	0.0059	CustomUnit("M")	ATP	6.8	30
+kcatKm_SPC_56_Cell	2333.333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.0011	CustomUnit("M")	Ethanol	10	25
+kcat	2.5	CustomUnit("swedgeone")		10	25
+IC50_1_SPC_23139_Cell	0.0026	CustomUnit("M")	o-Phenantroline	10	25
+KeqADH	0.000069	CustomUnit("")		NaN	NaN
+KiADHNAD_SPC_37_cytosol	0.00092	CustomUnit("M")	NAD+	NaN	NaN
+VmADH	0.0135	CustomUnit("Mswedgeone")		NaN	NaN
+KmADHACE_SPC_1292_cytosol	0.00111	CustomUnit("M")	Acetaldehyde	NaN	NaN
+KiADHETOH_SPC_56_cytosol	0.09	CustomUnit("M")	Ethanol	NaN	NaN
+KiADHNADH_SPC_38_cytosol	0.000031	CustomUnit("M")	NADH	NaN	NaN
+KmADHETOH_SPC_56_cytosol	0.017	CustomUnit("M")	Ethanol	NaN	NaN
+cytosol	0	CustomUnit("")		NaN	NaN
+KmADHNAD_SPC_37_cytosol	0.00017	CustomUnit("M")	NAD+	NaN	NaN
+KiADHACE_SPC_1292_cytosol	0.0011	CustomUnit("M")	Acetaldehyde	NaN	NaN
+KmADHNADH_SPC_38_cytosol	0.00011	CustomUnit("M")	NADH	NaN	NaN
+Km_SPC_1292_Cell	0.00017	CustomUnit("M")	Acetaldehyde	7.5	25
+kcat	2.833333	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_1292_Cell	16666.67	CustomUnit("Mwedgeoneswedgeone")	Acetaldehyde	7.5	25
+Ki_SPC_9941_Cell	0.0002	CustomUnit("M")	Fomepizole	7.5	25
+kcatdivKm_SPC_56_mitochondrion	101000	CustomUnit("Mwedgeoneswedgeone")	Ethanol	8	25
+Km_SPC_56_mitochondrion	0.00085	CustomUnit("M")	Ethanol	8	25
+kcat	85.83333	CustomUnit("swedgeone")		8	25
+Ki_SPC_9941_Cell	0.000002	CustomUnit("M")	Fomepizole	7.5	25
+Kcat_Km_SPC_56_Cell	0.75	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	24
+Km_SPC_1292_cytoplasm	0.00114	CustomUnit("M")	Acetaldehyde	10	25
+Ki_SPC_1292_cytoplasm	0.0573	CustomUnit("M")	Acetaldehyde	5.5	25
+Km_SPC_1292_cytoplasm	0.0003	CustomUnit("M")	Acetaldehyde	5.5	25
+Vmax	0.00625	CustomUnit("molswedgeonegwedgeone")		5.5	25
+Km_SPC_37_cytoplasm	0.0012	CustomUnit("M")	NAD+	8.5	25
+Vmax	0.0009316667	CustomUnit("molswedgeonegwedgeone")		8.5	25
+Km_SPC_38_cytoplasm	0.00003	CustomUnit("M")	NADH	6	25
+Vmax	0.0015	CustomUnit("molswedgeonegwedgeone")		6	25
+Vmax	0	CustomUnit("")		8	20
+Km_SPC_37_Cell	0.00015	CustomUnit("M")	NAD+	8	20
+Km_SPC_56_Cell	0.005	CustomUnit("M")	Ethanol	9.2	30
+kcat	0	CustomUnit("")		9.2	30
+Kia_SPC_37_Cell	0.00016	CustomUnit("M")	NAD+	7.3	30
+Kma_SPC_37_Cell	0.0001	CustomUnit("M")	NAD+	7.3	30
+kcat	1.1	CustomUnit("swedgeone")		7.3	30
+Kmb_SPC_56_Cell	0.014	CustomUnit("M")	Ethanol	7.3	30
+Km_SPC_37_Cell	0.000014	CustomUnit("M")	NAD+	10	24.8
+kcat	0.45	CustomUnit("swedgeone")		10	24.8
+Ki_SPC_9941_Cell	0.000004	CustomUnit("M")	Fomepizole	10	24.8
+kcat	31	CustomUnit("swedgeone")		7.3	30
+Kia_SPC_38_Cell	0.0000015	CustomUnit("M")	NADH	7.3	30
+Kma_SPC_1292_Cell	0.016	CustomUnit("M")	Acetaldehyde	7.3	30
+Kmb_SPC_38_Cell	0.00001	CustomUnit("M")	NADH	7.3	30
+Km_SPC_56_Cell	0.0081	CustomUnit("M")	Ethanol	10	25
+kcat_Km_SPC_56_Cell	816.6667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	6.633333	CustomUnit("swedgeone")		10	25
+Ki_SPC_9941_Cell	0.000000335	CustomUnit("M")	Fomepizole	10	25
+kcat	430	CustomUnit("swedgeone")		8	25
+Km_SPC_1292_mitochondrion	0.00158	CustomUnit("M")	Acetaldehyde	8	25
+kcatdivKm_SPC_1292_mitochondrion	271666.7	CustomUnit("Mwedgeoneswedgeone")	Acetaldehyde	8	25
+KmA_SPC_38_Cell	0.0000064	CustomUnit("M")	NADH	7.5	25
+KmS_SPC_1292_Cell	0.000085	CustomUnit("M")	Acetaldehyde	7.5	25
+Vmax	0.000100002	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_37_cytoplasm	0.0005	CustomUnit("M")	NAD+	8.8	25
+Vmax	0.0001650033	CustomUnit("katgwedgeone")		8.8	25
+kcat	408.3333	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_37_mitochondrion	1046667	CustomUnit("Mwedgeoneswedgeone")	NAD+	8	25
+Km_SPC_37_mitochondrion	0.00039	CustomUnit("M")	NAD+	8	25
+Km_B_SPC_37_Cell	0.00002	CustomUnit("M")	NAD+	8.5	NaN
+Km_A_SPC_56_Cell	0.0018	CustomUnit("M")	Ethanol	8.5	NaN
+Ki_SPC_5111_Cell	0.0000168	CustomUnit("M")	Pyrazole	8.5	23.5
+Vmax	0.0000616679	CustomUnit("katgwedgeone")		9.5	50
+Km_SPC_56_Cell	0.094	CustomUnit("M")	Ethanol	9.5	50
+kcat_Km_SPC_56_Cell	28	CustomUnit("Mwedgeoneswedgeone")	Ethanol	9.5	50
+Km_SPC_37_cytoplasm	0.00069	CustomUnit("M")	NAD+	10	25
+Act	0.00003	CustomUnit("molswedgeonegwedgeone")		8.5	25
+Km_SPC_56_mitochondrion	0.0005	CustomUnit("M")	Ethanol	8	25
+kcat	253.3333	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_56_mitochondrion	506666.7	CustomUnit("Mwedgeoneswedgeone")	Ethanol	8	25
+Act	0.000004166667	CustomUnit("molswedgeonegwedgeone")		6.7	25
+Vmax	0.001633366	CustomUnit("katgwedgeone")		7.5	25
+KmA_SPC_38_Cell	0.000105	CustomUnit("M")	NADH	7.5	25
+KmS_SPC_1292_Cell	0.00024	CustomUnit("M")	Acetaldehyde	7.5	25
+kcat	58.4	CustomUnit("swedgeone")		7	25
+Ka_SPC_2889_Cell	0.00025	CustomUnit("M")	Octanoate	7	25
+Km_SPC_37_Cell	0.00019	CustomUnit("M")	NAD+	10	25
+kcat	4.666667	CustomUnit("swedgeone")		10	25
+kcat_Km_SPC_37_Cell	24500	CustomUnit("Mwedgeoneswedgeone")	NAD+	10	25
+Kis_SPC_1292_Cell	0.029	CustomUnit("M")	Acetaldehyde	7.3	30
+Kii_SPC_1292_Cell	0.00000026	CustomUnit("M")	Acetaldehyde	7.3	30
+Km_SPC_1292_cytoplasm	0.00124	CustomUnit("M")	Acetaldehyde	8.5	25
+Km_SPC_56_Cell	0	CustomUnit("")	Ethanol	9	37
+kcat	1.2	CustomUnit("swedgeone")		9	37
+kcat	1.1	CustomUnit("swedgeone")		7.3	30
+Km_SPC_56_Cell	0.015	CustomUnit("M")	Ethanol	7.3	30
+Act	0.000002	CustomUnit("molswedgeonegwedgeone")		6.7	25
+Vmax_Km_SPC_56_Cell	0.00366674	CustomUnit("katMwedgeonegwedgeone")	Ethanol	7.5	25
+Vmax	0.0001316693	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_56_Cell	0.036	CustomUnit("M")	Ethanol	7.5	25
+Km_SPC_56_cytoplasm	0.005	CustomUnit("M")	Ethanol	10	25
+Km_SPC_1292_cytoplasm	0.00094	CustomUnit("M")	Acetaldehyde	8.5	25
+Ki_SPC_5153_Cell	0.0000794	CustomUnit("M")	1,10-Phenanthroline	7	25
+kcat_Km_SPC_56_Cell	1183.333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.0041	CustomUnit("M")	Ethanol	10	25
+kcat	4.916667	CustomUnit("swedgeone")		10	25
+Ki_SPC_9941_Cell	0.00000043	CustomUnit("M")	Fomepizole	10	25
+Km_SPC_38_Cell	0.00026	CustomUnit("M")	NADH	7.5	25
+Vmax	0.001066688	CustomUnit("katgwedgeone")		7.5	25
+kcat	1.883333	CustomUnit("swedgeone")		8	65
+kcat_Km_SPC_56_Cell	6666.667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	8	65
+Km_SPC_56_Cell	0.00026	CustomUnit("M")	Ethanol	8	65
+Act	0.000366674	CustomUnit("katgwedgeone")		8.3	30
+Km_a_SPC_56_Cell	0.0167	CustomUnit("M")	Ethanol	8.3	30
+Km_b_SPC_37_Cell	0.000059	CustomUnit("M")	NAD+	8.3	30
+Vmax	0.000100002	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_38_Cell	0.0000064	CustomUnit("M")	NADH	7.5	25
+Vmax	0.0000006666667	CustomUnit("molswedgeonegwedgeone")		8.5	25
+Km_SPC_56_cytoplasm	0.0073	CustomUnit("M")	Ethanol	8.5	25
+Km_SPC_56_Cell	0.0106	CustomUnit("M")	Ethanol	7.5	25
+kcat	0.175	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_56_Cell	16.66667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+kcat	6.84	CustomUnit("swedgeone")		7	25
+Km_SPC_56_Cell	0	CustomUnit("")	Ethanol	9	25
+kcat	0.5	CustomUnit("swedgeone")		9	25
+Vmax	0.0003516667	CustomUnit("molswedgeonegwedgeone")		6.8	30
+Km_SPC_56_cytosol	0.233	CustomUnit("M")	Ethanol	6.8	30
+Ki_SPC_5111_Cell	0.00056	CustomUnit("M")	Pyrazole	7.5	25
+Km_SPC_56_Cell	0.0014	CustomUnit("M")	Ethanol	10	25
+kcat_Km_SPC_56_Cell	716.6667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	1	CustomUnit("swedgeone")		10	25
+Km_A_SPC_1292_Cell	0.0018	CustomUnit("M")	Acetaldehyde	7.5	30
+Km_B_SPC_38_Cell	0.00002	CustomUnit("M")	NADH	7.5	30
+Ki_SPC_5111_Cell	0.0000058	CustomUnit("M")	Pyrazole	8.5	23.5
+Km_SPC_38_cytoplasm	0.000014	CustomUnit("M")	NADH	10	25
+kcatdivKm_B_SPC_56_Cell	3833.333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_A_SPC_37_Cell	0.000053	CustomUnit("M")	NAD+	10	25
+Km_B_SPC_56_Cell	0.0022	CustomUnit("M")	Ethanol	10	25
+kcat	8.333333	CustomUnit("swedgeone")		10	25
+IC50_1_SPC_9941_Cell	0.0000002	CustomUnit("M")	Fomepizole	10	25
+Ki_SPC_9941_Cell	0.0000001	CustomUnit("M")	Fomepizole	10	25
+Km_SPC_56_Cell	0.00031	CustomUnit("M")	Ethanol	10	25
+kcat	1.066667	CustomUnit("swedgeone")		10	25
+kcat_Km_SPC_56_Cell	3433.333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Vmax	0.001066688	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_1292_Cell	0.0034	CustomUnit("M")	Acetaldehyde	7.5	25
+Km_SPC_37_Cell	0.0000074	CustomUnit("M")	NAD+	7.5	25
+Vmax	0.000001416695	CustomUnit("katgwedgeone")		7.5	25
+KiA_SPC_37_Cell	0.00009	CustomUnit("M")	NAD+	7.5	25
+KmA_SPC_37_Cell	0.0000074	CustomUnit("M")	NAD+	7.5	25
+KmS_SPC_56_Cell	0.000022	CustomUnit("M")	Ethanol	7.5	25
+KiA_SPC_37_Cell	0.00009	CustomUnit("M")	NAD+	7.5	25
+Vmax_KmS_SPC_56_Cell	0.0650013	CustomUnit("katMwedgeonegwedgeone")	Ethanol	7.5	25
+Vmax	0.000001416695	CustomUnit("katgwedgeone")		7.5	25
+Kmb_SPC_38_Cell	0.00013	CustomUnit("M")	NADH	7.3	30
+Kia_SPC_38_Cell	0.000015	CustomUnit("M")	NADH	7.3	30
+kcat	240	CustomUnit("swedgeone")		7.3	30
+Kma_SPC_1292_Cell	0.094	CustomUnit("M")	Acetaldehyde	7.3	30
+Ki_SPC_9941_Cell	0.000004	CustomUnit("M")	Fomepizole	10	24.8
+Km_SPC_56_Cell	0.005	CustomUnit("M")	Ethanol	10	24.8
+kcat	0.45	CustomUnit("swedgeone")		10	24.8
+Km_A_SPC_56_Cell	0.00015	CustomUnit("M")	Ethanol	9	30
+Km_B_SPC_37_Cell	0.000074	CustomUnit("M")	NAD+	9	30
+Km_app_SPC_56_cytosol	0.00031	CustomUnit("M")	Ethanol	7.5	25
+Ki_SPC_5133_Cell	0.000086	CustomUnit("M")	Testosterone	10	25
+Activity	0.0000233338	CustomUnit("katgwedgeone")		7.5	25
+kcat	0.6	CustomUnit("swedgeone")		10	25
+Km_SPC_56_Cell	0.00071	CustomUnit("M")	Ethanol	10	25
+IC50_3_SPC_8731_Cell	0.000005	CustomUnit("M")	Genistein	10	25
+IC50_5_SPC_23148_Cell	0.000003	CustomUnit("M")	Biochanin	10	25
+IC50_2_SPC_5133_Cell	0.0001	CustomUnit("M")	Testosterone	10	25
+IC50_4_SPC_12293_Cell	0.000004	CustomUnit("M")	Daidzein	10	25
+IC50_1_SPC_23139_Cell	0.00008	CustomUnit("M")	o-Phenantroline	10	25
+Ki_SPC_9941_Cell	0.000004	CustomUnit("M")	Fomepizole	10	25
+Ki_SPC_24753_Cell	0.002	CustomUnit("M")	Isobutyramide	7	25
+kcat_Km_SPC_56_Cell	0.75	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	NaN
+kcat	74	CustomUnit("swedgeone")		7.3	30
+Kia_SPC_38_Cell	0.000002	CustomUnit("M")	NADH	7.3	30
+Kma_SPC_1292_Cell	0.036	CustomUnit("M")	Acetaldehyde	7.3	30
+Kmb_SPC_38_Cell	0.000028	CustomUnit("M")	NADH	7.3	30
+Kia_SPC_37_cytosol	0.00215	CustomUnit("M")	NAD+	9	25
+Kb_SPC_56_cytosol	0.0041	CustomUnit("M")	Ethanol	9	25
+kcat	61	CustomUnit("swedgeone")		9	25
+Kib_SPC_56_cytosol	0.0201	CustomUnit("M")	Ethanol	9	25
+Ka_SPC_37_cytosol	0.000557	CustomUnit("M")	NAD+	9	25
+kcatKm_SPC_56_Cell	1500	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	2	CustomUnit("swedgeone")		10	25
+Km_SPC_56_Cell	0.0014	CustomUnit("M")	Ethanol	10	25
+kcat	0	CustomUnit("")		9.2	30
+Km_SPC_37_Cell	0.000009	CustomUnit("M")	NAD+	9.2	30
+kcat	1056.667	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_38_mitochondrion	15083330	CustomUnit("Mwedgeoneswedgeone")	NADH	8	25
+Km_SPC_38_mitochondrion	0.00007	CustomUnit("M")	NADH	8	25
+Ki_SPC_2190_Cell	0.000075	CustomUnit("M")	2-Mercaptoethanol	5.8	30
+Act	0.000008	CustomUnit("molswedgeonegwedgeone")		10	25
+kcat	0.08333333	CustomUnit("swedgeone")		7.5	24.8
+Ki_SPC_9941_Cell	0.000011	CustomUnit("M")	Fomepizole	7.5	24.8
+Km_SPC_37_Cell	0.000005	CustomUnit("M")	NAD+	7.5	24.8
+kcat	41.33333	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_56_cytosol	25	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Km_SPC_56_cytosol	1.625	CustomUnit("M")	Ethanol	7.5	25
+Ki_SPC_25788_Cell	0.0025	CustomUnit("M")	2,2,2-Trifluoroethanol	9.5	23.5
+Km_SPC_1292_mitochondrion	0.00233	CustomUnit("M")	Acetaldehyde	8	25
+kcat	1143.333	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_1292_mitochondrion	490000	CustomUnit("Mwedgeoneswedgeone")	Acetaldehyde	8	25
+Km_SPC_1292_cytosol	0.0051	CustomUnit("M")	Acetaldehyde	6	25
+Vmax	0.000268672	CustomUnit("katgwedgeone")		6	25
+kcat	4.9	CustomUnit("swedgeone")		9	25
+Kis_SPC_35_cytosol	0.00319	CustomUnit("M")	ADP	9	25
+Km_SPC_37_cytosol	0.0000363	CustomUnit("M")	NAD+	9	25
+Km_SPC_38_cytoplasm	0.000078	CustomUnit("M")	NADH	8.5	25
+Km_SPC_38_Cell	0.000105	CustomUnit("M")	NADH	7.5	25
+Vmax	0.001633366	CustomUnit("katgwedgeone")		7.5	25
+kcat	1	CustomUnit("swedgeone")		9	30
+Km_SPC_56_Cell	0	CustomUnit("")	Ethanol	9	30
+kcatKm_SPC_56_Cell	2000	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	3.833333	CustomUnit("swedgeone")		10	25
+Km_SPC_56_Cell	0.002	CustomUnit("M")	Ethanol	10	25
+Vmax	0.001066688	CustomUnit("katgwedgeone")		7.5	25
+KmA_SPC_38_Cell	0.00026	CustomUnit("M")	NADH	7.5	25
+KmS_SPC_1292_Cell	0.0034	CustomUnit("M")	Acetaldehyde	7.5	25
+Act	0.0000005	CustomUnit("molswedgeonegwedgeone")		6.7	25
+Act	0.00001333333	CustomUnit("molswedgeonegwedgeone")		10	25
+Km_SPC_56_Cell	5	CustomUnit("M")	Ethanol	7.5	25
+kcat	16.66667	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_56_Cell	3.333333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Km_2_SPC_56_Cell	0.003	CustomUnit("M")	Ethanol	9.5	50
+kcat_Km_2_SPC_56_Cell	502	CustomUnit("Mwedgeoneswedgeone")	Ethanol	9.5	50
+Vmax_2	0.0000350007	CustomUnit("katgwedgeone")		9.5	50
+kcat_Km_1_SPC_56_Cell	226	CustomUnit("Mwedgeoneswedgeone")	Ethanol	9.5	50
+Km_1_SPC_56_Cell	0.057	CustomUnit("M")	Ethanol	9.5	50
+Vmax_1	0.000300006	CustomUnit("katgwedgeone")		9.5	50
+Km_SPC_56_Cell	0.0007	CustomUnit("M")	Ethanol	9.5	50
+Vmax	0.0000216671	CustomUnit("katgwedgeone")		9.5	50
+Km_SPC_56_cytoplasm	0.00078	CustomUnit("M")	Ethanol	10	25
+Ki_SPC_24753_Cell	0.0147	CustomUnit("M")	Isobutyramide	9.5	23.5
+Vmax	0.00005833333	CustomUnit("molswedgeonegwedgeone")		6.8	30
+kcat	1063.333	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_1292_mitochondrion	506666.7	CustomUnit("Mwedgeoneswedgeone")	Acetaldehyde	8	25
+Km_SPC_1292_mitochondrion	0.0021	CustomUnit("M")	Acetaldehyde	8	25
+Ki_SPC_5111_Cell	0.0000004	CustomUnit("M")	Pyrazole	7.5	25
+Km_SPC_56_Cell	0.0014	CustomUnit("M")	Ethanol	7.5	25
+kcat	0.65	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_56_Cell	466.6667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Ki_SPC_9941_Cell	0.00000012	CustomUnit("M")	Fomepizole	7.5	25
+Km_SPC_37_cytoplasm	0.000064	CustomUnit("M")	NAD+	10	25
+Ki_SPC_26701_Cell	0.0028	CustomUnit("M")	Tetramethylen sulfoxide	7.3	30
+Vmax	0.0001316693	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_37_Cell	0.00071	CustomUnit("M")	NAD+	7.5	25
+KiA_SPC_37_Cell	0.0023	CustomUnit("M")	NAD+	7.5	25
+ADHADH5Knad_SPC_37_Cell	0.00017	CustomUnit("M")	NAD+	NaN	NaN
+ADHADH5Knadh_SPC_38_Cell	0.00011	CustomUnit("M")	NADH	NaN	NaN
+KeqADH	14492.75	CustomUnit("")		NaN	NaN
+ADHADH5Ketoh_SPC_56_Cell	0.017	CustomUnit("M")	Ethanol	NaN	NaN
+ADHADH5Kietoh_SPC_56_Cell	0.09	CustomUnit("M")	Ethanol	NaN	NaN
+ADHADH5Kiacald_SPC_1292_Cell	0.0011	CustomUnit("M")	Acetaldehyde	NaN	NaN
+ADHADH5kcat	0	CustomUnit("swedgeone")		NaN	NaN
+ADHADH5Kacald_SPC_1292_Cell	0.00111	CustomUnit("M")	Acetaldehyde	NaN	NaN
+ADHADH5Kinad_SPC_37_Cell	0.00092	CustomUnit("M")	NAD+	NaN	NaN
+ADHADH5Kinadh_SPC_38_Cell	0.000031	CustomUnit("M")	NADH	NaN	NaN
+Km_SPC_37_Cell	0.000012	CustomUnit("M")	NAD+	7.5	24.8
+Ki_SPC_9941_Cell	0.0000002	CustomUnit("M")	Fomepizole	7.5	24.8
+kcat	0.4	CustomUnit("swedgeone")		7.5	24.8
+kcatKm_SPC_56_Cell	2333.333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.0017	CustomUnit("M")	Ethanol	10	25
+kcat	4	CustomUnit("swedgeone")		10	25
+Km_SPC_56_cytoplasm	0.0023	CustomUnit("M")	Ethanol	8.5	25
+Vmax	0.00015	CustomUnit("molswedgeonegwedgeone")		8.5	25
+kcat	0.5833333	CustomUnit("swedgeone")		10	25
+kcatdivKm_B_SPC_56_Cell	483.3333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_A_SPC_37_Cell	0.000037	CustomUnit("M")	NAD+	10	25
+Km_B_SPC_56_Cell	0.0012	CustomUnit("M")	Ethanol	10	25
+Vmax	0.000100002	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_1292_Cell	0.000085	CustomUnit("M")	Acetaldehyde	7.5	25
+Kis_SPC_3120_cytosol	0.000117	CustomUnit("M")	ADPribose	9	25
+kcat	4.9	CustomUnit("swedgeone")		9	25
+Km_SPC_37_cytosol	0.0000363	CustomUnit("M")	NAD+	9	25
+Ki_SPC_5111_Cell	0.0000141	CustomUnit("M")	Pyrazole	9.5	23.5
+kcat	0.5666667	CustomUnit("swedgeone")		10	24.8
+Km_SPC_56_Cell	0.0008	CustomUnit("M")	Ethanol	10	24.8
+Ki_SPC_9941_Cell	0.0000005	CustomUnit("M")	Fomepizole	10	24.8
+Km_SPC_37_cytosol	0.0000363	CustomUnit("M")	NAD+	9	25
+Kis_SPC_21363_cytosol	0.000128	CustomUnit("M")	3-Acetylpyridine-adenine dinucleotide	9	25
+kcat	4.9	CustomUnit("swedgeone")		9	25
+Ki_SPC_2190_Cell	0.00009	CustomUnit("M")	2-Mercaptoethanol	5.8	30
+ADHADH1Kinadh_SPC_38_Cell	0.000031	CustomUnit("M")	NADH	NaN	NaN
+ADHADH1Knad_SPC_37_Cell	0.00017	CustomUnit("M")	NAD+	NaN	NaN
+ADHADH1Kiacald_SPC_1292_Cell	0.0011	CustomUnit("M")	Acetaldehyde	NaN	NaN
+ADHADH1Kietoh_SPC_56_Cell	0.09	CustomUnit("M")	Ethanol	NaN	NaN
+ADHADH1Kinad_SPC_37_Cell	0.00092	CustomUnit("M")	NAD+	NaN	NaN
+ADHADH1Kacald_SPC_1292_Cell	0.0004622	CustomUnit("M")	Acetaldehyde	NaN	NaN
+ADHADH1Knadh_SPC_38_Cell	0.00011	CustomUnit("M")	NADH	NaN	NaN
+KeqADH	14492.75	CustomUnit("")		NaN	NaN
+ADHADH1kcat	176	CustomUnit("swedgeone")		NaN	NaN
+ADHADH1Ketoh_SPC_56_Cell	0.017	CustomUnit("M")	Ethanol	NaN	NaN
+kcatdivKm_SPC_38_mitochondrion	15066670	CustomUnit("Mwedgeoneswedgeone")	NADH	8	25
+Km_SPC_38_mitochondrion	0.000045	CustomUnit("M")	NADH	8	25
+kcat	678.3333	CustomUnit("swedgeone")		8	25
+Activity	0.0000233338	CustomUnit("katgwedgeone")		7.5	25
+kcat	0.5666667	CustomUnit("swedgeone")		10	24.8
+Km_SPC_37_Cell	0.000007	CustomUnit("M")	NAD+	10	24.8
+Ki_SPC_9941_Cell	0.0000005	CustomUnit("M")	Fomepizole	10	24.8
+Km_SPC_37_cytosol	0.000557	CustomUnit("M")	NAD+	9	25
+kcat	61	CustomUnit("swedgeone")		9	25
+Kis_SPC_21363_cytosol	0.00195	CustomUnit("M")	3-Acetylpyridine-adenine dinucleotide	9	25
+Vmax	0.2	CustomUnit("molswedgeonemolwedgeone")		7.5	25
+Ki_SPC_56_Cell	0.04	CustomUnit("M")	Ethanol	7.5	25
+Km_SPC_56_Cell	0.00013	CustomUnit("M")	Ethanol	7.5	25
+Km_SPC_56_Cell	0.0008	CustomUnit("M")	Ethanol	7.3	30
+kcat	7.8	CustomUnit("swedgeone")		7.3	30
+Km_SPC_56_Cell	0.00084	CustomUnit("M")	Ethanol	7.5	25
+Vmax_Km_SPC_56_Cell	0.16667	CustomUnit("katMwedgeonegwedgeone")	Ethanol	7.5	25
+Vmax	0.0001433362	CustomUnit("katgwedgeone")		7.5	25
+kcat_Km_SPC_56_Cell	0.25	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	NaN
+kcat	0.1666667	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_56_Cell	18.33333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Km_SPC_56_Cell	0.009	CustomUnit("M")	Ethanol	7.5	25
+kcatKm_SPC_56_Cell	1333.333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	1.333333	CustomUnit("swedgeone")		10	25
+Km_SPC_56_Cell	0.001	CustomUnit("M")	Ethanol	10	25
+kcat	0.14	CustomUnit("swedgeone")		7.5	25
+Km_SPC_56_Cell	0.0001	CustomUnit("M")	Ethanol	7.5	25
+kcat_Km_SPC_56_Cell	1400	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Vmax	0	CustomUnit("")		8	20
+Km_SPC_56_Cell	0.0119	CustomUnit("M")	Ethanol	8	20
+kcat	12	CustomUnit("swedgeone")		9	25
+Kip_SPC_1292_cytosol	0.000644	CustomUnit("M")	Acetaldehyde	9	25
+Kp_SPC_1292_cytosol	0.00052	CustomUnit("M")	Acetaldehyde	9	25
+Kiq_SPC_38_cytosol	0.00000667	CustomUnit("M")	NADH	9	25
+Kq_SPC_38_cytosol	0.00000665	CustomUnit("M")	NADH	9	25
+Kinad_13_SPC_37_cytosol	0.00092	CustomUnit("M")	NAD+	NaN	NaN
+Ketoh_13_SPC_56_cytosol	0.017	CustomUnit("M")	Ethanol	NaN	NaN
+Kietoh_13_SPC_56_cytosol	0.09	CustomUnit("M")	Ethanol	NaN	NaN
+Kiacald_13_SPC_1292_cytosol	0.0011	CustomUnit("M")	Acetaldehyde	NaN	NaN
+Knadh_13_SPC_38_cytosol	0.00011	CustomUnit("M")	NADH	NaN	NaN
+Knad_13_SPC_37_cytosol	0.00017	CustomUnit("M")	NAD+	NaN	NaN
+Kinadh_13_SPC_38_cytosol	0.000031	CustomUnit("M")	NADH	NaN	NaN
+Kacald_13_SPC_1292_cytosol	0.00111	CustomUnit("M")	Acetaldehyde	NaN	NaN
+cytosol	0	CustomUnit("")		NaN	NaN
+Keq_13	0.000069	CustomUnit("")		NaN	NaN
+Vmax_13	209.5	CustomUnit("")		NaN	NaN
+Km_SPC_1292_Cell	0.000462	CustomUnit("M")	Acetaldehyde	6.5	30
+kcat	176	CustomUnit("swedgeone")		6.5	30
+kcat	61	CustomUnit("swedgeone")		9	25
+Kis_SPC_35_cytosol	0.00308	CustomUnit("M")	ADP	9	25
+Km_SPC_37_cytosol	0.000557	CustomUnit("M")	NAD+	9	25
+kcatdivKm_SPC_56_mitochondrion	220000	CustomUnit("Mwedgeoneswedgeone")	Ethanol	8	25
+Km_SPC_56_mitochondrion	0.00074	CustomUnit("M")	Ethanol	8	25
+kcat	163.3333	CustomUnit("swedgeone")		8	25
+Act	0.00002666667	CustomUnit("molswedgeonegwedgeone")		8.5	25
+kcat	405	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_37_mitochondrion	405000	CustomUnit("Mwedgeoneswedgeone")	NAD+	8	25
+Km_SPC_37_mitochondrion	0.001	CustomUnit("M")	NAD+	8	25
+Act	0.0000005	CustomUnit("molswedgeonegwedgeone")		6.7	25
+Km_app_SPC_56_cytosol	0.0012	CustomUnit("M")	Ethanol	7.5	25
+Ki_SPC_9941_Cell	0.0000001	CustomUnit("M")	Fomepizole	10	25
+IC50_1_SPC_9941_Cell	0.0000002	CustomUnit("M")	Fomepizole	10	25
+Km_SPC_1292_Cell	0.00024	CustomUnit("M")	Acetaldehyde	7.5	25
+Vmax	0.001633366	CustomUnit("katgwedgeone")		7.5	25
+Ki_SPC_2190_Cell	0.000105	CustomUnit("M")	2-Mercaptoethanol	9.2	30
+Km_SPC_37_Cell	0.0001	CustomUnit("M")	NAD+	8	20
+Vmax	0	CustomUnit("")		8	20
+kcat	120	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_56_mitochondrion	117666.7	CustomUnit("Mwedgeoneswedgeone")	Ethanol	8	25
+Km_SPC_56_mitochondrion	0.00102	CustomUnit("M")	Ethanol	8	25
+Kcat_Km_SPC_56_Cell	0.75	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	24
+kcatdivKm_SPC_56_Cell	66.66667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.12	CustomUnit("M")	Ethanol	10	25
+kcat	7.833333	CustomUnit("swedgeone")		10	25
+Vmax	0.0000008333333	CustomUnit("molswedgeonegwedgeone")		8.5	25
+Km_SPC_37_cytoplasm	0.00004	CustomUnit("M")	NAD+	8.5	25
+Km_SPC_56_cytoplasm	0.0021	CustomUnit("M")	Ethanol	8.5	25
+Kii_SPC_56_Cell	0.066	CustomUnit("M")	Ethanol	7.3	30
+Ki_SPC_6946_Cell	0.000014	CustomUnit("M")	5alpha-Androstane-17beta-ol-3-one	7.3	37
+kcat	1.2	CustomUnit("swedgeone")		7.3	37
+Km_SPC_37_Cell	0	CustomUnit("")	NAD+	7.3	37
+Kii_SPC_26699_Cell	0.000000013	CustomUnit("M")	Trifluoroethanol	7.3	30
+Kis_SPC_26699_Cell	0.0076	CustomUnit("M")	Trifluoroethanol	7.3	30
+Km_app_SPC_56_cytosol	0.065	CustomUnit("M")	Ethanol	7.5	25
+Km_SPC_56_Cell	0.0007	CustomUnit("M")	Ethanol	7.4	28
+Vmax	0.0000002233333	CustomUnit("molswedgeonegwedgeone")		7.4	28
+kcat	285	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_37_mitochondrion	290000	CustomUnit("Mwedgeoneswedgeone")	NAD+	8	25
+Km_SPC_37_mitochondrion	0.00098	CustomUnit("M")	NAD+	8	25
+Km_SPC_56_Cell	0.34	CustomUnit("M")	Ethanol	10	25
+kcat	62.66667	CustomUnit("swedgeone")		10	25
+kcat_Km_SPC_56_Cell	183.3333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcatKm_SPC_56_Cell	133.3333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.0012	CustomUnit("M")	Ethanol	10	25
+kcat	0.1666667	CustomUnit("swedgeone")		10	25
+Vmax	0.0037	CustomUnit("molswedgeonegwedgeone")		6	25
+Km_SPC_1292_cytoplasm	0.024	CustomUnit("M")	Acetaldehyde	6	25
+Km_SPC_38_cytoplasm	0.0000097	CustomUnit("M")	NADH	8.5	25
+kcat	0	CustomUnit("")		5.8	30
+Km_SPC_38_Cell	0.000011	CustomUnit("M")	NADH	5.8	30
+kcat_Km_SPC_37_Cell	9240	CustomUnit("Mwedgeoneswedgeone")	NAD+	7.4	25
+kcat	1.663333	CustomUnit("swedgeone")		7.4	25
+Vmax	0.000008	CustomUnit("molswedgeonegwedgeone")		7.4	25
+Km_SPC_37_Cell	0.00018	CustomUnit("M")	NAD+	7.4	25
+Vmax	0.008333333	CustomUnit("molswedgeonegwedgeone")		5.5	25
+Km_SPC_38_cytoplasm	0.0002	CustomUnit("M")	NADH	5.5	25
+Km_SPC_37_cytosol	0.000557	CustomUnit("M")	NAD+	9	25
+Kis_SPC_1273_cytosol	0.000415	CustomUnit("M")	AMP	9	25
+kcat	61	CustomUnit("swedgeone")		9	25
+kcat	6.183333	CustomUnit("swedgeone")		10	25
+Km_SPC_37_Cell	0.00023	CustomUnit("M")	NAD+	10	25
+kcat_Km_SPC_37_Cell	26833.33	CustomUnit("Mwedgeoneswedgeone")	NAD+	10	25
+kcat	215	CustomUnit("swedgeone")		10.5	25
+kcat_Km_SPC_56_cytosol	850	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10.5	25
+Km_SPC_56_cytosol	0.255	CustomUnit("M")	Ethanol	10.5	25
+Km_SPC_56_Cell	1.3	CustomUnit("M")	Ethanol	10	25
+kcatKm_SPC_56_Cell	1500	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	2.366667	CustomUnit("swedgeone")		10	25
+Km_SPC_56_Cell	0.0016	CustomUnit("M")	Ethanol	10	25
+Km_SPC_37_cytosol	0.0000363	CustomUnit("M")	NAD+	9	25
+Kis_SPC_1273_cytosol	0.00038	CustomUnit("M")	AMP	9	25
+kcat	4.9	CustomUnit("swedgeone")		9	25
+KiA_SPC_37_Cell	0.00034	CustomUnit("M")	NAD+	7.5	25
+Vmax	0.0001433362	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_37_Cell	0.00018	CustomUnit("M")	NAD+	7.5	25
+Kii_SPC_26700_Cell	0.0000000067	CustomUnit("M")	Tetramethylene sulfoxid	7.3	30
+Kis_SPC_26700_Cell	0.0064	CustomUnit("M")	Tetramethylene sulfoxid	7.3	30
+Km_SPC_1292_cytoplasm	0.0192	CustomUnit("M")	Acetaldehyde	10	25
+IC50_1_SPC_9941_Cell	0.0000042	CustomUnit("M")	Fomepizole	10	25
+Ki_SPC_9941_Cell	0.0000021	CustomUnit("M")	Fomepizole	10	25
+kcat	2.3	CustomUnit("swedgeone")		9.5	23.5
+Km_SPC_56_Cell	0.0062	CustomUnit("M")	Ethanol	9.5	23.5
+kcatKm_SPC_56_Cell	370	CustomUnit("Mwedgeoneswedgeone")	Ethanol	9.5	23.5
+KmS_SPC_56_Cell	0.036	CustomUnit("M")	Ethanol	7.5	25
+KiQ_SPC_38_Cell	0.000056	CustomUnit("M")	NADH	7.5	25
+Vmax_KmS_SPC_56_Cell	0.00366674	CustomUnit("katMwedgeonegwedgeone")	Ethanol	7.5	25
+KiA_SPC_37_Cell	0.0023	CustomUnit("M")	NAD+	7.5	25
+KmA_SPC_37_Cell	0.00071	CustomUnit("M")	NAD+	7.5	25
+Vmax	0.0001316693	CustomUnit("katgwedgeone")		7.5	25
+kcat_Km_SPC_56_Cell	0.25	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	NaN
+Vmax	0.0000066668	CustomUnit("katgwedgeone")		10.5	25
+Km_SPC_37_cytoplasm	0.00005	CustomUnit("M")	NAD+	10.5	25
+kcat	0.14	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_56_Cell	866.6667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Km_SPC_56_Cell	0.00016	CustomUnit("M")	Ethanol	7.5	25
+Kiu_SPC_1273_cytosol	0.019	CustomUnit("M")	AMP	6.8	30
+kcat	16.66667	CustomUnit("swedgeone")		7	24.8
+Km_SPC_1292_Cell	0.0001	CustomUnit("M")	Acetaldehyde	7	24.8
+Kis_SPC_1292_Cell	0.0032	CustomUnit("M")	Acetaldehyde	7.3	30
+Kii_SPC_1292_Cell	0.0000000063	CustomUnit("M")	Acetaldehyde	7.3	30
+Ki_SPC_5111_Cell	0.0000037	CustomUnit("M")	Pyrazole	9.5	23.5
+kcat	2.833333	CustomUnit("swedgeone")		10	25
+kcat_Km_SPC_56_Cell	5666.667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.0005	CustomUnit("M")	Ethanol	10	25
+Kcat_Km_SPC_56_Cell	0.75	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	24
+Kiu_SPC_35_cytosol	0.017	CustomUnit("M")	ADP	6.8	30
+Ki_SPC_5133_Cell	0.000069	CustomUnit("M")	Testosterone	10	25
+Vmax	0	CustomUnit("")		8	20
+Km_SPC_56_Cell	0.0089	CustomUnit("M")	Ethanol	8	20
+Act	0.0000065	CustomUnit("molswedgeonegwedgeone")		8.5	25
+IC50_1_SPC_23139_Cell	0.0017	CustomUnit("M")	o-Phenantroline	10	25
+Ki_SPC_9941_Cell	0.0000002	CustomUnit("M")	Fomepizole	7.5	24.8
+kcat	0.4	CustomUnit("swedgeone")		7.5	24.8
+Km_SPC_56_Cell	0.00018	CustomUnit("M")	Ethanol	7.5	24.8
+kcat	1.2	CustomUnit("swedgeone")		7.3	37
+Ki_SPC_6946_Cell	0.000028	CustomUnit("M")	5alpha-Androstane-17beta-ol-3-one	7.3	37
+Km_SPC_56_Cell	0	CustomUnit("")	Ethanol	7.3	37
+Kcat_Km_SPC_56_Cell	0.75	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	24
+Vmax_KmS_SPC_56_Cell	0.16667	CustomUnit("katMwedgeonegwedgeone")	Ethanol	7.5	25
+Vmax	0.0001433362	CustomUnit("katgwedgeone")		7.5	25
+KiA_SPC_37_Cell	0.00034	CustomUnit("M")	NAD+	7.5	25
+KmS_SPC_56_Cell	0.00084	CustomUnit("M")	Ethanol	7.5	25
+KmA_SPC_37_Cell	0.00018	CustomUnit("M")	NAD+	7.5	25
+Ki_SPC_9941_Cell	0.0000035	CustomUnit("M")	Fomepizole	7.3	30
+Km_SPC_1292_mitochondrion	0.00022	CustomUnit("M")	Acetaldehyde	8	25
+kcatdivKm_SPC_1292_mitochondrion	3333333	CustomUnit("Mwedgeoneswedgeone")	Acetaldehyde	8	25
+kcat	726.6667	CustomUnit("swedgeone")		8	25
+kcat	1.916667	CustomUnit("swedgeone")		7.5	25
+kcat_Km_SPC_56_cytosol	4000	CustomUnit("Mwedgeoneswedgeone")	Ethanol	7.5	25
+Km_SPC_56_cytosol	0.00048	CustomUnit("M")	Ethanol	7.5	25
+kcat	3.333333	CustomUnit("swedgeone")		10	25
+kcatKm_SPC_56_Cell	1666.667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.002	CustomUnit("M")	Ethanol	10	25
+Act	0.000001666667	CustomUnit("molswedgeonegwedgeone")		6.7	25
+Vmax	0.0001666667	CustomUnit("molswedgeonegwedgeone")		9	30
+Km_SPC_38_mitochondrion	0.00006	CustomUnit("M")	NADH	8	25
+kcatdivKm_SPC_38_mitochondrion	11083330	CustomUnit("Mwedgeoneswedgeone")	NADH	8	25
+kcat	665	CustomUnit("swedgeone")		8	25
+Km_SPC_37_cytoplasm	0.00015	CustomUnit("M")	NAD+	8.5	25
+kcat	0	CustomUnit("")		5.8	30
+Km_SPC_1292_Cell	0.00067	CustomUnit("M")	Acetaldehyde	5.8	30
+kcat_Km_SPC_56_Cell	4500	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Km_SPC_56_Cell	0.00076	CustomUnit("M")	Ethanol	10	25
+kcat	3.383333	CustomUnit("swedgeone")		10	25
+k_minus1	5.1	CustomUnit("swedgeone")		9.5	23.5
+KmA_SPC_37_Cell	0.000011	CustomUnit("M")	NAD+	9.5	23.5
+kcat	2.4	CustomUnit("swedgeone")		9.5	23.5
+k1	220000	CustomUnit("Mwedgeoneswedgeone")		9.5	23.5
+KmB_SPC_56_Cell	0.006	CustomUnit("M")	Ethanol	9.5	23.5
+Kmb_SPC_56_Cell	0.01	CustomUnit("M")	Ethanol	7.3	30
+Kia_SPC_37_Cell	0.000089	CustomUnit("M")	NAD+	7.3	30
+kcat	0.47	CustomUnit("swedgeone")		7.3	30
+Kma_SPC_37_Cell	0.00004	CustomUnit("M")	NAD+	7.3	30
+Km_SPC_56_cytoplasm	0.00037	CustomUnit("M")	Ethanol	8.5	25
+kcat	4.416667	CustomUnit("swedgeone")		10.5	25
+Km_SPC_56_cytosol	0.00083	CustomUnit("M")	Ethanol	10.5	25
+kcat_Km_SPC_56_cytosol	5333.333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10.5	25
+Ki_SPC_5111_Cell	0.0000049	CustomUnit("M")	Pyrazole	9.5	23.5
+Ki_SPC_9941_Cell	0.00000078	CustomUnit("M")	Fomepizole	9.5	23.5
+Km_SPC_37_mitochondrion	0.00057	CustomUnit("M")	NAD+	8	25
+kcat	140.5	CustomUnit("swedgeone")		8	25
+kcatdivKm_SPC_37_mitochondrion	246666.7	CustomUnit("Mwedgeoneswedgeone")	NAD+	8	25
+Km_SPC_38_cytoplasm	0.00017	CustomUnit("M")	NADH	10	25
+Km_SPC_37_Cell	0.000063	CustomUnit("M")	NAD+	7.5	25
+Act	0.0000055	CustomUnit("molswedgeonegwedgeone")		6.7	25
+Vmax_Km_SPC_56_Cell	0.0650013	CustomUnit("katMwedgeonegwedgeone")	Ethanol	7.5	25
+Vmax	0.000001416695	CustomUnit("katgwedgeone")		7.5	25
+Km_SPC_56_Cell	0.000022	CustomUnit("M")	Ethanol	7.5	25
+Kq_SPC_38_cytosol	0.000244	CustomUnit("M")	NADH	9	25
+Kiq_SPC_38_cytosol	0.0000826	CustomUnit("M")	NADH	9	25
+kcat	360	CustomUnit("swedgeone")		9	25
+Kp_SPC_1292_cytosol	0.00619	CustomUnit("M")	Acetaldehyde	9	25
+Kip_SPC_1292_cytosol	0.0194	CustomUnit("M")	Acetaldehyde	9	25
+Km_SPC_56_Cell	0.028	CustomUnit("M")	Ethanol	10	25
+kcat_Km_SPC_56_Cell	333.3333	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	9.583333	CustomUnit("swedgeone")		10	25
+Km_SPC_56_Cell	0.004	CustomUnit("M")	Ethanol	7.5	24.8
+kcat	0.08333333	CustomUnit("swedgeone")		7.5	24.8
+Ki_SPC_9941_Cell	0.000011	CustomUnit("M")	Fomepizole	7.5	24.8
+Km_A_SPC_37_Cell	0.00004	CustomUnit("M")	NAD+	10	25
+kcat	2.333333	CustomUnit("swedgeone")		10	25
+Km_B_SPC_56_Cell	0.0011	CustomUnit("M")	Ethanol	10	25
+kcatdivKm_B_SPC_56_Cell	2166.667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+Act	0.00008333333	CustomUnit("molswedgeonegwedgeone")		10	25
+kcat	61	CustomUnit("swedgeone")		9	25
+Kis_SPC_3120_cytosol	0.000419	CustomUnit("M")	ADPribose	9	25
+Km_SPC_37_cytosol	0.000557	CustomUnit("M")	NAD+	9	25
+Ki_SPC_2915_Cell	0.0056	CustomUnit("M")	2-Chloroethanol	9.5	23.5
+Kis_SPC_2190_Cell	0.000005	CustomUnit("M")	2-Mercaptoethanol	9.2	30
+Kii_SPC_2190_Cell	0.000105	CustomUnit("M")	2-Mercaptoethanol	9.2	30
+kcat	3.333333	CustomUnit("swedgeone")		7	24.8
+Km_SPC_1292_Cell	0.0114	CustomUnit("M")	Acetaldehyde	7	24.8
+Ki_SPC_9941_Cell	0.00000075	CustomUnit("M")	Fomepizole	9.5	23.5
+Km_SPC_56_Cell	0.0011	CustomUnit("M")	Ethanol	10	25
+kcat_Km_SPC_56_Cell	16.66667	CustomUnit("Mwedgeoneswedgeone")	Ethanol	10	25
+kcat	0.1833333	CustomUnit("swedgeone")		10	25
+Km_SPC_37_Cell	0.00007	CustomUnit("M")	NAD+	10	25
