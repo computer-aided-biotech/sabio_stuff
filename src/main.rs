@@ -29,14 +29,20 @@ struct ExperimentalParameter {
 
 fn map_local_to_exp(
     local_param: Vec<LocalParameter>,
-    sabiork: &Option<rust_sbml::rdf::Sabiork>,
+    sabiork: &Option<rust_sbml::annotation::sabiork::Sabiork>,
 ) -> Vec<ExperimentalParameter> {
-    let ph = sabiork
-        .as_ref()
-        .map(|sabiork| sabiork.get_ph().map(|ph| format!("{}", ph)).unwrap_or(String::from("NaN")));
-    let t = sabiork
-        .as_ref()
-        .map(|sabiork| sabiork.get_temperature().map(|t| format!("{}", t)).unwrap_or(String::from("NaN")));
+    let ph = sabiork.as_ref().map(|sabiork| {
+        sabiork
+            .get_ph()
+            .map(|ph| format!("{}", ph))
+            .unwrap_or_else(|| String::from("NaN"))
+    });
+    let t = sabiork.as_ref().map(|sabiork| {
+        sabiork
+            .get_temperature()
+            .map(|t| format!("{}", t))
+            .unwrap_or_else(|| String::from("NaN"))
+    });
     local_param
         .into_iter()
         .map(|local_param| ExperimentalParameter {
@@ -65,10 +71,7 @@ fn main() {
         .filter_map(|(_id, r)| r.kinetic_law.take())
         .flat_map(|kl| {
             let sabiork = kl.annotation.unwrap().sabiork.take();
-            map_local_to_exp(
-                kl.list_of_local_parameters.local_parameter,
-                &sabiork,
-            )
+            map_local_to_exp(kl.list_of_local_parameters.local_parameter, &sabiork)
         })
         .for_each(|param| {
             println!(
@@ -88,8 +91,8 @@ fn main() {
                         None
                     })
                     .unwrap_or(""),
-                param.ph.unwrap_or(String::from("NaN")),
-                param.t.unwrap_or(String::from("NaN")),
+                param.ph.unwrap_or_else(|| String::from("NaN")),
+                param.t.unwrap_or_else(|| String::from("NaN")),
             )
         });
 }
